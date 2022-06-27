@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lionkingsimba
+- 👀 I’m interested in bitcoin.
+- 🌱 I’m currently learning solana.
+- 💞️ I’m looking to collaborate on crypto projects.
